@@ -91,6 +91,7 @@
             <artifactId>spring-boot-starter-tomcat</artifactId>
             <scope>provided</scope>
         </dependency>
+             
 
         <!-- dependency injection jsr 330 -->
         <dependency>
@@ -103,6 +104,13 @@
             <artifactId>jsr250-api</artifactId>
             <version>1.0</version>
         </dependency>
+             <dependency>
+  <groupId>junit</groupId>     <!-- NOT org.junit here -->
+  <artifactId>junit-dep</artifactId>
+  <version>4.8.2</version>
+  <scope>test</scope>
+</dependency>
+
 
         <!--<dependency>-->
         <!--<groupId>org.apache.tomcat.embed</groupId>-->

@@ -5,7 +5,7 @@
 
     <groupId>com.hendisantika</groupId>
     <artifactId>registration-login-demo</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.1-RELEASE</version>
     <packaging>war</packaging>
 
     <name>registration-login-demo</name>
